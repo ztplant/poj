@@ -2,7 +2,7 @@
 //  main.cpp
 //  POJ2188
 //
-//  Created by 张腾 on 16/6/12.
+//  Created by MockingJ on 16/6/12.
 //  Copyright © 2016年 MockingJ. All rights reserved.
 //
 
